@@ -1,10 +1,10 @@
-# FinTrack Frontend
+# FinTrack 
 
-FinTrack is a React-based frontend application designed to help users track their financial activities and manage their budgets effectively.
+FinTrack is a React-based application designed to help users track their financial activities and manage their budgets effectively.
 
 ## Getting Started
 
-To get started with the FinTrack frontend application, follow these steps:
+To get started with the FinTrack application, follow these steps:
 
 ### Prerequisites
 
