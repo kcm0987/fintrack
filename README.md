@@ -77,7 +77,7 @@ fintrack-frontend
 ```
 
 ## Output 
-![Alt text](Screenshot 2025-11-13 215435.png)
+![output]([Screenshot 2025-11-13 215435.png](https://github.com/kcm0987/fintrack/blob/c169b41d7c6015c5e75de511da39f5f19aaf026a/Screenshot%202025-11-13%20215435.png))
 
 
 ## Contributing
