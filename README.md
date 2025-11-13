@@ -76,6 +76,10 @@ fintrack-frontend
 └── README.md             # Project documentation
 ```
 
+## Output 
+![Alt text](path/to/image.png)
+
+
 ## Contributing
 
 If you would like to contribute to the project, please fork the repository and submit a pull request with your changes.
