@@ -77,7 +77,7 @@ fintrack-frontend
 ```
 
 ## Output 
-![Alt text](path/to/image.png)
+![Alt text](Screenshot 2025-11-13 215435.png)
 
 
 ## Contributing
